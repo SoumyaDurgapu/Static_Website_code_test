@@ -1,0 +1,19 @@
+.bg_cnr_2 {
+  background-color: #dff0d8;
+  background-size: cover;
+  height: 100vh;
+}
+.crd1 {
+  background-color: #a78bfa;
+  height: 80px;
+  width: 80px;
+}
+.crd2 {
+  background-color: #7b4ae1;
+  height: 80px;
+  width: 80px;
+}
+.font {
+  font-size: 10px;
+  color: #ffffff;
+}
